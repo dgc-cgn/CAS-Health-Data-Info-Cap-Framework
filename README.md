@@ -12,7 +12,11 @@ Modernizing this health data ecosystem requires coherent and cooperative action 
 
 The work to assess within and cross-organizational capabilities will include people across both business lines and organizations and, therefore, be an important first step in advancing data and information governance across the Health Data and Information (HDI) supply chain 
 
-Although the focus of the standard is on organizations governance holding data the Technical Committee strongly believes that Canadians should be able to access their own health information and benefit from it being shared securely between health workers, across health settings, and across jurisdictions. That is why provinces and territories are also asked to agree to adopt common standards and policies related to data. 
+Although the focus of the standard is on organizations governance holding data the Technical Committee strongly believes that Canadians should be able to access their own health information and benefit from it being shared securely between health workers, across health settings, and across jurisdictions. That is why provinces and territories are also asked to agree to adopt common standards and policies related to data.
+
+## Scope of Assessment
+
+The standard specifies the minimum requirements for organizations to define the depth, diversity and complexity of capabilities, including criteria to assess the degree to which the capability is mature and consistently applied across an organization’s data assets and processes; 
 
 ## Grant
 
@@ -26,10 +30,6 @@ In accordance with the [Grant Policy](https://github.com/dgc-cgn/CAS-Digital-Tru
 |Specialization|TBD|
 |Assessment Class Level|[Determined by Engagement](https://github.com/dgc-cgn/CAS-Digital-Trust/blob/main/scheme/profiles/digital-trust-main-scope.md#assessment-class-level)|
 |Caveats|[Determined by Engagement](https://github.com/dgc-cgn/CAS-Digital-Trust/blob/main/scheme/profiles/digital-trust-main-scope.md#caveats)|
-
-## Scope of Assessment
-
-The standard specifies the minimum requirements for organizations to define the depth, diversity and complexity of capabilities, including criteria to assess the degree to which the capability is mature and consistently applied across an organization’s data assets and processes; 
 
 ## Assessment Templates
 
