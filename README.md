@@ -32,6 +32,10 @@ In accordance with the [Grant Policy](https://github.com/dgc-cgn/CAS-Digital-Tru
 |Caveats|[Determined by Engagement](https://github.com/dgc-cgn/CAS-Digital-Trust/blob/main/scheme/profiles/digital-trust-main-scope.md#caveats)|
 |Applicable Standard|[CAN/DSGI 100-5](https://dgc-cgn.org/standards/find-a-standard/standards-in-health-data/health-data-framework/)|
 
+## Assessment Approach
+
+[Assessment for Core HDI](./scheme/asssessment-core-hdi.md)
+
 ## Assessment Templates
 
 |Reference|Description|
