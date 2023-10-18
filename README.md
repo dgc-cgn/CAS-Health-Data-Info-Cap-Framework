@@ -1,5 +1,7 @@
 # Conformity Assessment Scheme: Health Data and Information Capability Framework
 
+![GitHub issues](https://img.shields.io/github/issues/dgc-cgn/CAS-Health-Data-Info-Cap-Framework)
+
 This conformity assessment scheme is used to assess health information organizations on the collection, use, storage, protection, and distribution of data.
 
 ## Overview
