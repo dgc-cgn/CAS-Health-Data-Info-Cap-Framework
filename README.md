@@ -25,9 +25,9 @@ In accordance with the [Grant Policy](https://github.com/dgc-cgn/CAS-Digital-Tru
 |Component|Description|
 |---|---|
 |Main Scope|Digital Trust|
-|Topic|Data Governance|
+|Topic|Health|
 |Sub-Scope|Health Data and Information Capability Fraework|
-|Specialization|TBD|
+|Focus|Core HDI Capabilities|
 |Assessment Class Level|[Determined by Engagement](https://github.com/dgc-cgn/CAS-Digital-Trust/blob/main/scheme/profiles/digital-trust-main-scope.md#assessment-class-level)|
 |Caveats|[Determined by Engagement](https://github.com/dgc-cgn/CAS-Digital-Trust/blob/main/scheme/profiles/digital-trust-main-scope.md#caveats)|
 |Applicable Standard|[CAN/DSGI 100-5](https://dgc-cgn.org/standards/find-a-standard/standards-in-health-data/health-data-framework/)|
