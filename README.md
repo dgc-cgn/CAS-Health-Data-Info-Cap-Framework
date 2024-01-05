@@ -6,7 +6,8 @@ This conformity assessment scheme is used to assess health information organizat
 
 ## References
 
-- [Ontario Health Data Council Report: A Vision for Ontario’s Health Data Ecosystem](https://www.ontario.ca/page/ontario-health-data-council-report-vision-ontarios-health-data-ecosystem#section-1) [Report](./published/moh-ohdc-ontario-health-data-council-report-en-2023-08-28.pdf)
+- [Ontario Health Data Council Report: A Vision for Ontario’s Health Data Ecosystem](https://www.ontario.ca/page/ontario-health-data-council-report-vision-ontarios-health-data-ecosystem#section-1) 
+- [Report](./published/moh-ohdc-ontario-health-data-council-report-en-2023-08-28.pdf)
 
 ## Overview
 
