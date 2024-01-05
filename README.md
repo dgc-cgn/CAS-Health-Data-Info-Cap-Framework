@@ -4,6 +4,10 @@
 
 This conformity assessment scheme is used to assess health information organizations on the collection, use, storage, protection, and distribution of data.
 
+## References
+
+- [Ontario Health Data Council Report: A Vision for Ontario’s Health Data Ecosystem](https://www.ontario.ca/page/ontario-health-data-council-report-vision-ontarios-health-data-ecosystem#section-1) [Report](./published/moh-ohdc-ontario-health-data-council-report-en-2023-08-28.pdf)
+
 ## Overview
 
 CAN/DGSI 100-5:2023 was prepared by the Digital Governance Standards Institute Technical Committee 13 (TC 13) on health data and information, comprised of over 30 thought leaders and experts in identity management and related subjects. This Standard was approved by a Technical Committee formed balloting group, comprised of 3 producers, 3 government / regulator / policymakers, 3 users, and 3 general interests.
