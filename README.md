@@ -33,7 +33,7 @@ In accordance with the [Grant Policy](https://github.com/dgc-cgn/CAS-Digital-Tru
 |---|---|
 |Main Scope|Digital Trust|
 |Topic|Health|
-|Sub-Scope|Health Data and Information Capability Fraework|
+|Sub-Scope|Health Data and Information Capability Framework|
 |Focus|Core HDI Capabilities|
 |Assessment Class Level|[Determined by Engagement](https://github.com/dgc-cgn/CAS-Digital-Trust/blob/main/scheme/profiles/digital-trust-main-scope.md#assessment-class-level)|
 |Caveats|[Determined by Engagement](https://github.com/dgc-cgn/CAS-Digital-Trust/blob/main/scheme/profiles/digital-trust-main-scope.md#caveats)|
